@@ -3,8 +3,8 @@ body {
   background: black;
   min-height: 100vh;
   display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
+	/* flex-direction: column;
+	/* flex-wrap: wrap; */
 	justify-content: center;
 	align-items: center;
 	align-content: center;
@@ -61,5 +61,6 @@ body {
 
 .text {
   padding:0 10px;
+  text-align: justify;
 }
 
